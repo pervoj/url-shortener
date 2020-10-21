@@ -1,0 +1,49 @@
+; Configuration of URL shortener
+; %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+; Database
+; ========
+
+; Host:
+db_host=localhost
+
+; Username:
+db_user=root
+
+; Password:
+db_pass=
+
+; Database name:
+db_name=
+
+
+
+; Language
+; ========
+
+; Secected translation code:
+lg_trans=en
+
+
+
+; Page info
+; =========
+
+; Page title:
+pi_title=URL shortener
+
+; Page logo (recommended 30x30 px):
+pi_logo=logo.png
+
+; Navbar theme (0 = light, 1 = dark, 2 = blue) [number]:
+pi_theme=0
+
+
+
+; Shortener
+; =========
+
+; Shorten code length [number]:
+sh_length=8
