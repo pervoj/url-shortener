@@ -27,4 +27,4 @@ Table configuration:
 
 ## Did you find an issue? Do you have an idea?
 
-Please use Issues to report a problem or idea. Select the Incident type to report the problem, or select the Issue type to report the idea.
+Please use Issues to report a problem or idea. Select the appropriate template. If the paragraphs do not suit you, you can edit them or delete unused ones.
