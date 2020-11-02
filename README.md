@@ -6,7 +6,7 @@
 
 ## Instalation
 
-1. [Download](https://gitlab.com/per_voj/url-shortener/-/releases) this project
+1. [Download](https://gitlab.com/pervoj/url-shortener/-/releases) this project
 2. Upload files on your hosting
 3. Edit .htconfig file
 4. Setup database (guide bellow)
