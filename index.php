@@ -18,7 +18,7 @@
                 SET stat=stat+1
                 WHERE code=?
             ', htmlspecialchars($_GET['c']));
-
+            header('HTTP/1.1 301 Moved Permanently');
             header('Location: ' . $query['url']);
 
             exit();
